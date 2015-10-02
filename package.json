@@ -1,0 +1,26 @@
+{
+  "name": "impress-ti",
+  "version": "0.0.1",
+  "description": "Presentación para TI",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexisfuentes/impress-ti.git"
+  },
+  "keywords": [
+    "ti",
+    "impressjs",
+    "javascript",
+    "html5",
+    "css3"
+  ],
+  "author": "Alexis Antonio Fuentes Che",
+  "license": "Creative Commons 1.0",
+  "bugs": {
+    "url": "https://github.com/alexisfuentes/impress-ti/issues"
+  },
+  "homepage": "https://github.com/alexisfuentes/impress-ti#readme"
+}
